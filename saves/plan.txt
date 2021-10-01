@@ -1,0 +1,39 @@
+Harvesting GOLD_MINE at (4, 7)
+Depositing GOLD
+Harvesting GOLD_MINE at (15, 3)
+Depositing GOLD
+Harvesting GOLD_MINE at (15, 3)
+Depositing GOLD
+Harvesting GOLD_MINE at (15, 3)
+Depositing GOLD
+Harvesting GOLD_MINE at (15, 3) AND Building Pe
+No new actions
+Harvesting TREE at (4, 12) AND Depositing GOLD
+Depositing WOOD
+Harvesting TREE at (12, 13)
+Harvesting TREE at (4, 12)
+Depositing WOOD AND Depositing WOOD
+Harvesting TREE at (12, 13)
+Harvesting TREE at (12, 13)
+Depositing WOOD
+Depositing WOOD
+Harvesting TREE at (4, 12)
+Harvesting TREE at (12, 13)
+Depositing WOOD
+Depositing WOOD
+Harvesting GOLD_MINE at (22, 16)
+Harvesting GOLD_MINE at (15, 3)
+Depositing GOLD AND Depositing GOLD
+Harvesting GOLD_MINE at (22, 16)
+Harvesting GOLD_MINE at (22, 16)
+Depositing GOLD
+Depositing GOLD AND Building Pe
+Harvesting GOLD_MINE at (22, 16) AND Building Pe
+Harvesting GOLD_MINE at (22, 16) AND Building Pe
+Depositing GOLD AND Building Pe
+Depositing GOLD AND Building Pe
+Harvesting GOLD_MINE at (22, 16) AND Building Pe
+Harvesting GOLD_MINE at (22, 16) AND Building Pe
+Depositing GOLD AND Building Pe
+Depositing GOLD AND Building Pe
+Harvesting TREE at (12, 4)
